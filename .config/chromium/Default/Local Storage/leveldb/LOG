@@ -1,18 +1,3 @@
-2021/12/27-18:16:26.453 3 Reusing MANIFEST /home/anthony/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2021/12/27-18:16:26.454 3 Recovering log #39
-2021/12/27-18:16:26.455 3 Reusing old log /home/anthony/.config/chromium/Default/Local Storage/leveldb/000039.log 
-2021/12/27-18:45:56.447 19 Level-0 table #43: started
-2021/12/27-18:45:56.498 19 Level-0 table #43: 20866 bytes OK
-2021/12/27-18:45:56.532 19 Delete type=0 #39
-2021/12/27-18:45:56.533 19 Compacting 4@0 + 1@1 files
-2021/12/27-18:45:56.610 19 Generated table #44@0: 347 keys, 182286 bytes
-2021/12/27-18:45:56.610 19 Compacted 4@0 + 1@1 files => 182286 bytes
-2021/12/27-18:45:56.642 19 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/12/27-18:45:56.643 19 Delete type=2 #37
-2021/12/27-18:45:56.643 19 Delete type=2 #35
-2021/12/27-18:45:56.643 19 Delete type=2 #43
-2021/12/27-18:45:56.643 19 Delete type=2 #32
-2021/12/27-18:45:56.643 19 Delete type=2 #40
-2021/12/27-19:09:57.359 1f Level-0 table #46: started
-2021/12/27-19:09:57.416 1f Level-0 table #46: 22129 bytes OK
-2021/12/27-19:09:57.458 1f Delete type=0 #42
+2021/12/28-00:12:50.570 3 Reusing MANIFEST /home/anthony/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/12/28-00:12:50.573 3 Recovering log #53
+2021/12/28-00:12:50.673 3 Reusing old log /home/anthony/.config/chromium/Default/Local Storage/leveldb/000053.log 

@@ -1,0 +1,5 @@
+[2021-12-27 23:26:47.436] [main] [info] update#setState idle
+[2021-12-27 23:26:47.484] [main] [info] ExtensionHostStarterWorker created
+[2021-12-27 23:26:49.236] [main] [info] Starting extension host with pid 72736 (fork() took 12 ms).
+[2021-12-27 23:27:05.025] [main] [info] Waiting for extension host with pid 72736 to exit.
+[2021-12-27 23:27:05.035] [main] [info] Extension host with pid 72736 exited with code: 0, signal: null.

@@ -1,15 +1,15 @@
-2021/12/27-18:17:09.173 6ac1 Reusing MANIFEST /home/anthony/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/12/27-18:17:09.173 6ac1 Recovering log #7
-2021/12/27-18:17:09.173 6ac1 Reusing old log /home/anthony/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000007.log 
-2021/12/27-18:46:29.791 7646 Level-0 table #12: started
-2021/12/27-18:46:29.850 7646 Level-0 table #12: 198748 bytes OK
-2021/12/27-18:46:29.884 7646 Delete type=0 #7
-2021/12/27-18:46:29.885 7646 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/12/27-18:46:29.886 7646 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x02\x1f\x03\x000\xfa\xf0\xe2\xdfwB\x00\x01,\x00w\x00c\x00q\x00n\x000\x00x\x00O\x004\x00M\x00+\x00U\x00f\x00B\x00s\x00z\x00w\x00S\x00C\x00P\x00Y\x00K\x004\x00q\x00J\x00g\x003\x00J\x00G\x001\x00e\x008\x000\x00Q\x00j\x00a\x00p\x005\x000\x00O\x00m\x001\x00t\x00o\x00=' @ 50122 : 1
-2021/12/27-18:46:29.886 7646 Compacting 1@1 + 1@2 files
-2021/12/27-18:46:29.995 7646 Generated table #13@1: 13036 keys, 586379 bytes
-2021/12/27-18:46:29.995 7646 Compacted 1@1 + 1@2 files => 586379 bytes
-2021/12/27-18:46:30.082 7646 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/12/27-18:46:30.082 7646 Delete type=2 #12
-2021/12/27-18:46:30.082 7646 Delete type=2 #9
-2021/12/27-18:46:30.083 7646 Manual compaction at level-1 from '\x00\x04\x02\x1f\x03\x000\xfa\xf0\xe2\xdfwB\x00\x01,\x00w\x00c\x00q\x00n\x000\x00x\x00O\x004\x00M\x00+\x00U\x00f\x00B\x00s\x00z\x00w\x00S\x00C\x00P\x00Y\x00K\x004\x00q\x00J\x00g\x003\x00J\x00G\x001\x00e\x008\x000\x00Q\x00j\x00a\x00p\x005\x000\x00O\x00m\x001\x00t\x00o\x00=' @ 50122 : 1 .. (end); will stop at (end)
+2021/12/27-23:54:06.458 12e99 Reusing MANIFEST /home/anthony/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/27-23:54:06.458 12e99 Recovering log #23
+2021/12/27-23:54:06.458 12e99 Reusing old log /home/anthony/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000023.log 
+2021/12/28-00:07:35.889 1315a Level-0 table #28: started
+2021/12/28-00:07:35.945 1315a Level-0 table #28: 276730 bytes OK
+2021/12/28-00:07:35.977 1315a Delete type=0 #23
+2021/12/28-00:07:35.978 1315a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/28-00:07:35.978 1315a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x02\x1f\x03\x00`\xf9\xa4\xf6\xdfwB\x00\x01,\x00r\x00t\x00O\x002\x00J\x00l\x00x\x00F\x00V\x00b\x00K\x008\x00E\x00u\x00n\x00U\x00M\x00a\x00r\x00Y\x007\x00h\x00L\x001\x00w\x00m\x00/\x00t\x00D\x00V\x00K\x003\x008\x00i\x00b\x00I\x00D\x005\x004\x00+\x00z\x00t\x00c\x00=' @ 110510 : 1
+2021/12/28-00:07:35.978 1315a Compacting 1@1 + 1@2 files
+2021/12/28-00:07:36.102 1315a Generated table #29@1: 23484 keys, 1057544 bytes
+2021/12/28-00:07:36.102 1315a Compacted 1@1 + 1@2 files => 1057544 bytes
+2021/12/28-00:07:36.131 1315a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/28-00:07:36.131 1315a Delete type=2 #25
+2021/12/28-00:07:36.131 1315a Delete type=2 #28
+2021/12/28-00:07:36.132 1315a Manual compaction at level-1 from '\x00\x04\x02\x1f\x03\x00`\xf9\xa4\xf6\xdfwB\x00\x01,\x00r\x00t\x00O\x002\x00J\x00l\x00x\x00F\x00V\x00b\x00K\x008\x00E\x00u\x00n\x00U\x00M\x00a\x00r\x00Y\x007\x00h\x00L\x001\x00w\x00m\x00/\x00t\x00D\x00V\x00K\x003\x008\x00i\x00b\x00I\x00D\x005\x004\x00+\x00z\x00t\x00c\x00=' @ 110510 : 1 .. (end); will stop at (end)

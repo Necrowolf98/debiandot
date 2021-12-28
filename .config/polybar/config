@@ -23,7 +23,7 @@ active-light = #313435
 [bar/bar1] 
 ;monitor = LVDS1 
 width =  100%
-height = 15
+height = 20
 padding-left = 1
 padding-right = 1
 background = ${colors.background}
@@ -38,6 +38,7 @@ enable-ipc = true
 line-size = 1
 wm-restack = bspwm
 locale = es_EC.UTF-8
+fuzzy-match = true
 
 modules-left =  bspwm line spaces now-playing spaces line
 modules-right = pulseaudio spaces backlight spaces battery spaces temperature spaces cpu spaces mem  wlan spaces time spaces powermenu
@@ -46,7 +47,6 @@ font-0 = Iosevka Nerd Font:style=Bold:pixelsize=11;3
 font-1 = JetBrainsMono Nerd Font:size=15;3
 font-2 = Material Design Icons:style=Bold:size=13;3
 font-3 = Dejavu Serif:fontformat=truetype:size=10:antialias=true;3
-
 
 
 [module/alsa]
@@ -148,23 +148,22 @@ content-foreground = #2b2f37
 
 
 [module/bspwm]
-
 type = internal/bspwm
 enable-scroll = true
-label-focused = %name%
+label-focused = %icon%
 label-focused-background = ${colors.color1}
 ;label-focused-underline = ${colors.primary}
 label-focused-padding = 1
 label-focused-foreground = ${colors.foreground}
 
-label-occupied = %name%
+label-occupied = %icon%
 label-occupied-padding = 1
 
-label-urgent = %name%!
+label-urgent = %icon%!
 label-urgent-background = ${colors.background}
 label-urgent-padding = 1
 
-label-empty = %name%
+label-empty = %icon%
 label-empty-foreground = ${colors.foreground}
 label-empty-padding = 1
 
@@ -176,17 +175,20 @@ scroll-down = bspwm-deskprev
 
 ; Separator in between workspaces
 label-separator = |
-
-
-
-
-
+ws-icon-0 = "I;%{T1}  %{T-}"
+ws-icon-1 = "II;%{T1}  %{T-}"
+ws-icon-2 = "III;%{T1}  %{T-}"
+ws-icon-3 = "IV;%{T1}  %{T-}"
+ws-icon-4 = "V;%{T1}  %{T-}"
+ws-icon-5 = "VI;%{T1}  %{T-}"
+ws-icon-6 = "VII;%{T1}  %{T-}"
+ws-icon-7 = "VIII;%{T1}  %{T-}"
 
 [module/pulseaudio]
 type = internal/pulseaudio
 
 format-volume = <ramp-volume><label-volume>
-format-volume-background = ${colors.shade16}
+;format-volume-background = ${colors.shade15}
 ;label-volume-padding-left = 1
 
 label-volume = %percentage%%
@@ -204,7 +206,7 @@ label-volume-underline = ${colors.background}
 label-muted-underline = ${colors.background}
 
 label-muted =  Muted
-label-muted-background = ${colors.shade16}
+;label-muted-background = ${colors.shade15}
 label-muted-foreground = ${colors.color1}
 ;label-muted-padding = 1
 
@@ -222,16 +224,16 @@ bar-volume-fill = 
 bar-volume-empty = 
 bar-volume-indicator = 雷
 
-bar-volume-fill-background = ${colors.shade16}
-bar-volume-indicator-background = ${colors.shade16}
-bar-volume-empty-background = ${colors.shade16}
+;bar-volume-fill-background = ${colors.shade15}
+;bar-volume-indicator-background = ${colors.shade15}
+;bar-volume-empty-background = ${colors.shade15}
 
 ; Only applies if <ramp-volume> is used
 ramp-volume-0 = 
 ramp-volume-1 = 
 ramp-volume-2 = 
 ramp-volume-foreground = ${colors.color1}
-ramp-volume-background = ${colors.shade16}
+;ramp-volume-background = ${colors.shade15}
 ramp-volume-padding-right = 1
 
 

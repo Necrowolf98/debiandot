@@ -13,8 +13,43 @@ super + d
 # make sxhkd reload its configuration files:
 super + Escape
 	pkill -USR1 -x sxhkd
-
 #
+
+super + Print
+	maim "/home/$cdUSER/Pictures/$(date).png"
+super + shift + Print 
+        maim -s -u | xclip -selection clipboard -t image/png -i       
+
+# Multimedia keys
+XF86AudioRaiseVolume
+  pactl set-sink-volume @DEFAULT_SINK@ +5%
+
+# Still muøltimedia
+XF86AudioLowerVolume
+  pactl set-sink-volume @DEFAULT_SINK@ -5%
+
+# still
+XF86AudioMute
+  pactl set-sink-mute @DEFAULT_SINK@ toggle
+
+XF86AudioNext
+  playerctl next
+  
+XF86AudioPlay
+  playerctl play-pause
+   
+XF86AudioPrev
+  playerctl previous
+
+
+# Brightness up
+XF86MonBrightnessUp
+  brightnessctl set +5%
+
+# And brightness down
+XF86MonBrightnessDown
+  brightnessctl set 10%-
+
 # bspwm hotkeys
 #
 

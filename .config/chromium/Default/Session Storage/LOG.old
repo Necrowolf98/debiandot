@@ -1,6 +1,4 @@
-2021/12/27-16:56:17.985 5 Reusing MANIFEST /home/anthony/.config/chromium/Default/Session Storage/MANIFEST-000001
-2021/12/27-16:56:17.986 5 Recovering log #13
-2021/12/27-16:56:17.987 5 Reusing old log /home/anthony/.config/chromium/Default/Session Storage/000013.log 
-2021/12/27-16:56:18.451 5 Level-0 table #17: started
-2021/12/27-16:56:18.484 5 Level-0 table #17: 20625 bytes OK
-2021/12/27-16:56:18.524 5 Delete type=0 #13
+2021/12/27-23:12:12.501 5 Reusing MANIFEST /home/anthony/.config/chromium/Default/Session Storage/MANIFEST-000001
+2021/12/27-23:12:12.502 5 Recovering log #19
+2021/12/27-23:12:12.502 5 Reusing old log /home/anthony/.config/chromium/Default/Session Storage/000019.log 
+2021/12/28-00:10:00.084 c Level-0 table #24: started
