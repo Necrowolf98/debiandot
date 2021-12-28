@@ -1,0 +1,6 @@
+2021/12/26-19:33:59.043 83d Creating DB /home/anthony/.config/chromium/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb since it was missing.
+2021/12/26-19:33:59.151 83d Reusing MANIFEST /home/anthony/.config/chromium/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/26-19:35:09.747 75f Level-0 table #5: started
+2021/12/26-19:35:09.811 75f Level-0 table #5: 11234 bytes OK
+2021/12/26-19:35:09.849 75f Delete type=0 #3
+2021/12/26-19:35:09.850 75f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

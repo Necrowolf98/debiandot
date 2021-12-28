@@ -1,0 +1,26 @@
+2021/12/27-16:56:18.335 471f Reusing MANIFEST /home/anthony/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2021/12/27-16:56:18.336 471f Recovering log #249
+2021/12/27-16:56:18.336 471f Reusing old log /home/anthony/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000249.log 
+2021/12/27-16:57:23.396 4736 Level-0 table #253: started
+2021/12/27-16:57:23.626 4736 Level-0 table #253: 6890862 bytes OK
+2021/12/27-16:57:23.663 4736 Delete type=0 #249
+2021/12/27-16:57:23.666 4736 Compacting 4@0 + 2@1 files
+2021/12/27-16:57:23.926 4736 Generated table #254@0: 1 keys, 6890655 bytes
+2021/12/27-16:57:23.960 4736 Generated table #255@0: 5 keys, 367 bytes
+2021/12/27-16:57:23.960 4736 Compacted 4@0 + 2@1 files => 6891022 bytes
+2021/12/27-16:57:23.995 4736 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/12/27-16:57:23.995 4736 Delete type=2 #250
+2021/12/27-16:57:23.995 4736 Delete type=2 #245
+2021/12/27-16:57:23.995 4736 Delete type=2 #243
+2021/12/27-16:57:23.995 4736 Delete type=2 #253
+2021/12/27-16:57:23.995 4736 Delete type=2 #248
+2021/12/27-16:57:23.995 4736 Delete type=2 #242
+2021/12/27-17:06:04.629 4cf6 Level-0 table #257: started
+2021/12/27-17:06:04.921 4cf6 Level-0 table #257: 6890655 bytes OK
+2021/12/27-17:06:04.958 4cf6 Delete type=0 #252
+2021/12/27-17:57:23.298 5ce5 Level-0 table #259: started
+2021/12/27-17:57:23.560 5ce5 Level-0 table #259: 6890966 bytes OK
+2021/12/27-17:57:23.620 5ce5 Delete type=0 #256
+2021/12/27-18:10:40.481 5f13 Level-0 table #261: started
+2021/12/27-18:10:40.709 5f13 Level-0 table #261: 6890654 bytes OK
+2021/12/27-18:10:40.750 5f13 Delete type=0 #258

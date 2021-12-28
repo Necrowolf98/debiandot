@@ -1,0 +1,7 @@
+2021/12/26-18:57:54.122 45c Reusing MANIFEST /home/anthony/.config/chromium/Default/IndexedDB/https_pc-solucion.es_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/26-18:57:54.122 45c Recovering log #3
+2021/12/26-18:57:54.134 45c Reusing old log /home/anthony/.config/chromium/Default/IndexedDB/https_pc-solucion.es_0.indexeddb.leveldb/000003.log 
+2021/12/26-18:58:00.815 45e Level-0 table #5: started
+2021/12/26-18:58:00.881 45e Level-0 table #5: 8765 bytes OK
+2021/12/26-18:58:01.044 45e Delete type=0 #3
+2021/12/26-18:58:01.045 45e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

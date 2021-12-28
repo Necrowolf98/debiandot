@@ -1,0 +1,6 @@
+2021/12/27-16:56:17.825 3 Reusing MANIFEST /home/anthony/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/12/27-16:56:17.826 3 Recovering log #36
+2021/12/27-16:56:17.826 3 Reusing old log /home/anthony/.config/chromium/Default/Local Storage/leveldb/000036.log 
+2021/12/27-17:06:29.027 8 Level-0 table #40: started
+2021/12/27-17:06:29.096 8 Level-0 table #40: 49424 bytes OK
+2021/12/27-17:06:29.132 8 Delete type=0 #36

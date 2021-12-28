@@ -1,0 +1,6 @@
+2021/12/26-18:35:47.580 a7f Creating DB /home/anthony/.config/chromium/Default/IndexedDB/https_www.lifewire.com_0.indexeddb.leveldb since it was missing.
+2021/12/26-18:35:47.853 a7f Reusing MANIFEST /home/anthony/.config/chromium/Default/IndexedDB/https_www.lifewire.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/26-18:35:52.675 a7f Level-0 table #5: started
+2021/12/26-18:35:52.735 a7f Level-0 table #5: 342 bytes OK
+2021/12/26-18:35:52.773 a7f Delete type=0 #3
+2021/12/26-18:35:52.774 a7f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
